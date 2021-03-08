@@ -1,0 +1,11 @@
+
+
+POST http://localhost:8080/sucursales
+Content-Type: application/json
+
+{
+    "id": "bsas1",
+    "nombre": "Buenos Aires",
+    "direccion": "Prueba 123",
+    "localidad": "CABA"
+}
